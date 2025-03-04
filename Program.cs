@@ -18,6 +18,7 @@
  
  static int SumOfThreeNumbers(int a, int b, int c)
  {
+   // return sum of integers
    return a + b + c;
  }
 
